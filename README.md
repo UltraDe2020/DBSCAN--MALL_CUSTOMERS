@@ -1,2 +1,2 @@
 # DBSCAN_ALGORITHMS
-One of the effective Unsupervised Learning
+One of the Effective Unsupervised Learning
